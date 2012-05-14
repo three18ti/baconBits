@@ -1,0 +1,9 @@
+account:
+    username: 
+    password: 
+
+trackerurl: 
+
+directories:
+    monitored: ~/download
+    save: ~/
